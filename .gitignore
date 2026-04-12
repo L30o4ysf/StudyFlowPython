@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente e banco de dados local
+# dados.json (Opcional: remova o '#' se não quiser subir o seu banco de dados pessoal)

@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Matemática",
+        "prioridade": 3
+    },
+    {
+        "nome": "História",
+        "prioridade": 1
+    },
+    {
+        "nome": "Física",
+        "prioridade": 3
+    },
+    {
+        "nome": "Português",
+        "prioridade": 2
+    },
+    {
+        "nome": "Historia",
+        "prioridade": 2
+    }
+]
