@@ -18,5 +18,9 @@
     {
         "nome": "Historia",
         "prioridade": 2
+    },
+    {
+        "nome": "Pokemon Master",
+        "prioridade": 3
     }
 ]
